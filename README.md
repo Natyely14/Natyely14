@@ -3,7 +3,7 @@
 👋 Bem-vindo(a)! Este é o meu espaço de projetos.
 
 ## 📂 Sobre este repositório
-Aqui vou guardar e compartilhar meus códigos, projetos e estudos.
+Aqui irei guardar e compartilhar meus códigos, projetos e estudos.
 
 ## 🚀 Tecnologias
 - Em construção...
